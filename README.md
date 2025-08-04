@@ -6,6 +6,10 @@
 
 Building a personal website is hard. Writing about yourself is even harder. This project solves that problem by providing a master prompt that directs an AI to act as your personal Brand Strategist, turning your simple resume into a step-by-step plan for building a website.
 
+ ### **A Note From The Creator**
+
+"I started this project because I saw many talented people who deserved a great website but didn't have one. This prompt is my contribution to making professional branding accessible to everyone."
+
 ### How It Works
 
 This project does not require any code. The process is simple:
