@@ -75,7 +75,7 @@ Based on your analysis in Part A, generate the "Lovable AI Building Roadmap" bel
 
 ## 📋 Showcase: Projects Created With This Prompt
 
-Here are some examples of live websites built using the "AI Website Building Roadmap" prompt and the Lovable AI platform.
+Here are some examples of live websites built using the "AI Website Building Roadmap" prompt and the Lovable AI platform. I should add the websites are not completely done yet.
 
 ---
 
@@ -90,6 +90,7 @@ A modern, sleek website for an AI and Automation agency, showcasing services, pr
 <img width="1516" height="842" alt="Ian AI Studio Website" src="https://github.com/user-attachments/assets/7de71e90-47d0-4202-b397-8d2b7c131b63" />
 
 ---
+
 
 ### Michael Gor - Research & Policy Analyst
 
