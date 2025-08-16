@@ -78,13 +78,20 @@ Based on your analysis in Part A, generate the "Lovable AI Building Roadmap" bel
 Here are some examples of live websites built using the "AI Website Building Roadmap" prompt and the Lovable AI platform. I should add the websites are not completely done yet.
 
 ---
+### Ken - Thrifted Men's Apparel & Linen Wear
 
+A personalized e-commerce showcase for a fashion entrepreneur specializing in thrifted men's apparel and linen wear. The site highlights Ken's personal brand as both a retailer and style consultant, featuring a searchable product catalog and consultation services for young millennials.
+
+**Live Website:** [[Ken's website](https://allaboutshirtske.lovable.app/)]
+
+**Screenshot:**
+<img width="1519" height="812" alt="Image" src="https://github.com/user-attachments/assets/1c1e1226-aab4-43da-a93f-dd666c67924d" />
 
 ### Ian Ochieng - AI & Automation Agency
 
 A modern, sleek website for an AI and Automation agency, showcasing services, projects, and a clear call to action for potential clients.
 
-**Live Website:** [**https://preview--ian-ai-studio.lovable.app/**](https://preview--ian-ai-studio.lovable.app/)
+**Live Website:** [Ian's Professional Website](https://preview--ian-ai-studio.lovable.app/)
 
 **Screenshot:**
 <img width="1516" height="842" alt="Ian AI Studio Website" src="https://github.com/user-attachments/assets/7de71e90-47d0-4202-b397-8d2b7c131b63" />
@@ -96,7 +103,7 @@ A modern, sleek website for an AI and Automation agency, showcasing services, pr
 
 A professional portfolio designed to highlight Michael's extensive experience in social research, data analysis, and project management across Sub-Saharan Africa.
 
-**Live Website:** [**https://preview--mikegor.lovable.app/**](https://preview--mikegor.lovable.app/)
+**Live Website:** [Mike Gor's Professional Website](https://preview--mikegor.lovable.app/)
 
 **Screenshot:**
 <img width="1563" height="766" alt="Michael Gor's Portfolio Website" src="https://github.com/user-attachments/assets/f308a50f-24f4-4b49-bd96-dec5bf4e971b" />
